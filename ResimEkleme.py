@@ -1,12 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8 -*-
 # -*- coding: cp1254 -*-
-# coding: latin1
-"""
-Created on Tue Jun 25 15:05:28 2019
-
-@author: Ogün Can KAYA
-"""
 
 # Yeni bir kayıt eklemek için yapılacak işlemler.
 import cv2
